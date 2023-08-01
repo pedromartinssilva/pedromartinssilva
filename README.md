@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pedromartinssilva
 - 👀 I’m interested in tech, music, singing.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me == contatopedromartinssilva@gmail.com
 
 <!---
