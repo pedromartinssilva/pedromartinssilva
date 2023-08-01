@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedromartinssilva
-- 👀 I’m interested in tech, music, singing.
+- 👀 I’m interested in tech, music, art
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me == contatopedromartinssilva@gmail.com
 
